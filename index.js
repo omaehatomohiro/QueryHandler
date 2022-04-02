@@ -28,6 +28,6 @@ const QueryHandler = (function(){
         return map;
     }
 
-    return Parameter;
+    return Parameter();
 })();
 

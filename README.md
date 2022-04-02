@@ -3,5 +3,5 @@
 ## How to get parameter value
 
 ```
-QueryHandler.{key}
+QueryHandler.get('keyname')
 ```
